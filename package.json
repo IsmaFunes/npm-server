@@ -1,0 +1,9 @@
+{
+  "name": "iisnode-verdaccio",
+  "version": "1.0.0",
+  "description": "Hosts verdaccio in iisnode",
+  "main": "start.js",
+  "dependencies": {
+    "verdaccio": "^3.11.0"
+  }
+}
