@@ -4,6 +4,6 @@
   "description": "Hosts verdaccio in iisnode",
   "main": "start.js",
   "dependencies": {
-    "verdaccio": "^3.11.0"
+    "verdaccio": "^5.19.1"
   }
 }
